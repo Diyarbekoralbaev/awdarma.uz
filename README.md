@@ -1,4 +1,4 @@
-<h1 align="center" id="title">awdarma</h1>
+<h1 align="center" id="title">Awdarmashi Bot</h1>
 
 <p id="description">Hello everyone. this bot can translate all languages into Karakalpak language. The bot translates the previously given word into Uzbek language using Google translator and then into Karakalpak language through from-to.uz. bot was written in python using the aiogram library sqlite3 database was used for the database</p>
 
