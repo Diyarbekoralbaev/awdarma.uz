@@ -1,22 +1,17 @@
 <h1 align="center" id="title">Awdarmashi Bot</h1>
 
-<p id="description">Hello everyone. this bot can translate all languages into Karakalpak language. The bot translates the previously given word into Uzbek language using Google translator and then into Karakalpak language through from-to.uz. bot was written in python using the aiogram library sqlite3 database was used for the database</p>
+<p id="description">Hello everyone. this site can translate all languages into Karakalpak language. The site translates the previously given word into Uzbek language using Google translator and then into Karakalpak language through from-to.uz. bot was written in python using the aiogram library sqlite3 database was used for the database</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Website</h2>
 
-[https://t.me/awdarmashi\_robot](https://t.me/awdarmashi_robot)
-
-<h2>Project Screenshots:</h2>
-
-<img src="https://github.com/Diyarbekoralbaev/awdarma/blob/main/img.jpg?raw=true" alt="project-screenshot" width="200" height="300/">
-
+[https://awdarma.uz](https://awdarma.uz)
   
   
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
 
-*   Bot can translate all languages
+*   Website can translate all languages
 *   It takes a short time to translate
 
   
@@ -25,9 +20,9 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   aiogram
-*   requests
-*   json
+*   Flask
 *   aiohttp
-*   google translator
+*   HTML
+*   CSS
+*   ReactJS
 *   from-to.uz
